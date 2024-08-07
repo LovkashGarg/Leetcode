@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
