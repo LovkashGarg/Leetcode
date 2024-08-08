@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -62,9 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
