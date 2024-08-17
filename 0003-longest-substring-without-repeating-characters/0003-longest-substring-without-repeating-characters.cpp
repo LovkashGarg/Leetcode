@@ -8,19 +8,16 @@ public:
         int finalmax=1;
         for(int i=0;i<n;i++){
             map<char,int>m;
-            int count=0;
-            for(int j=i;j<n;j++){
-                if(m.find(s[j])==m.end()){
-                      m[s[j]]++;
-                      count++;
+            int j=i;
+            for( ;j<n;j++){
+                if(m[s[j]]==1){
+                      break; 
                 }
                 else{
-               cout<<s[j]<<endl;
-                 break; 
+                  m[s[j]]++;
                 }
             }
-            cout<<count<<endl;
-            finalmax=max(finalmax,count);
+            finalmax=max(finalmax,j-i);
         }
         return finalmax;
     }
