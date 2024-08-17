@@ -1,28 +1,23 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        
-    unordered_map<char,int> m;
-    int n=s.length();
-    if(n<=1){
-        return n;
-    }
-    for(int i=0;i<n;i++){
-        m[s[i]]=-1;
-    }
-    int start=-1;
-    int i=0;
-    int maxlen=1;
-    while(i<n){
-        // means not first time 
-       if(m[s[i]]>start){
-         start=m[s[i]];
-       }
-        m[s[i]]=i;
-      maxlen=max(maxlen,i-start);
-        i++;
-     cout<<maxlen<<endl;
-      }
-    return maxlen;
+        int l = 0;
+        int r = 0;
+        int n = s.length();
+        vector<int> hash  (255, -1);
+        int maxlen = 0;
+        while (r < n) {
+            // means element is present in the hash map
+            if (hash[s[r]] != -1) {
+                if (hash[s[r]] >= l) {
+                    l = hash[s[r]] + 1;
+                }
+            }
+            int len = r - l + 1;
+            maxlen = max(maxlen, len);
+            hash[s[r]] = r;
+            r++;
+        }
+        return maxlen;
     }
 };
