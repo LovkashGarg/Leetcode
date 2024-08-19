@@ -2,24 +2,32 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-       set<vector<int>>s;
+    vector<vector<int>>ans;
         int n=nums.size();
-      
-        for(int i=0;i<n-2;i++){
+        for(int i=0;i<n;i++){
             // element will be inside this 
+            if(i>0 && nums[i]==nums[i-1]){
+                continue; // we donot want to repeat the element 
+            }
             int j=i+1; 
             int k=n-1;
-            int target=-nums[i];
+         
             while(j<k){
-            int sum= nums[j]+ nums[k];
-             if(target==sum){
+            int sum= nums[i]+nums[j]+ nums[k];
+             if(sum==0){
                 // cout<<"hello"<<j<<" "<<k<<endl;
                 vector<int> temp={nums[i],nums[j],nums[k]};
-                    s.insert(temp);
-                j++;
-                k--;
+                    ans.push_back(temp);
+                  j++;
+                  k--;
+                while(j<k && nums[j]==nums[j-1]){
+                    j++;
+                }
+                while(j<k && nums[k]==nums[k+1]){
+                    k--;
+                }
              }
-              else if(target >sum){
+              else if(sum<0){
                 j++;
             }
               else {
@@ -27,7 +35,6 @@ public:
              }
             }
         }
-          vector<vector<int>>ans(s.begin(),s.end());
         return ans;
     }
 };
