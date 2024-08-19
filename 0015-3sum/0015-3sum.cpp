@@ -2,9 +2,9 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        map<vector<int>,int>m;
+       set<vector<int>>s;
         int n=nums.size();
-        vector<vector<int>>ans;
+      
         for(int i=0;i<n-2;i++){
             // element will be inside this 
             int j=i+1; 
@@ -15,11 +15,7 @@ public:
              if(target==sum){
                 // cout<<"hello"<<j<<" "<<k<<endl;
                 vector<int> temp={nums[i],nums[j],nums[k]};
-    
-                 if(m.find(temp)==m.end()){
-                 ans.push_back(temp);
-                 m[temp]=1;
-                 }
+                    s.insert(temp);
                 j++;
                 k--;
              }
@@ -30,8 +26,8 @@ public:
                 k--;
              }
             }
-            
         }
+          vector<vector<int>>ans(s.begin(),s.end());
         return ans;
     }
 };
