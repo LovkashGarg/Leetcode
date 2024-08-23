@@ -22,7 +22,7 @@ public:
                 }
             }
             //  right part is sorted 
-            else if(arr[high] >=arr[mid]  ){
+            else {
                   // check if the element is present or not
                   if(arr[mid]<target&& target <= arr[high]){
                    low=mid+1;
