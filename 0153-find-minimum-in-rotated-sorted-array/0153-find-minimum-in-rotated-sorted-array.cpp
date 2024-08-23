@@ -10,13 +10,17 @@ public:
           
           // means the minimum is on right side 
           // since left side is sorted therefore 
-         if(nums[mid]>nums[high]){
+         if(nums[low]<=nums[mid]){
+            // take the min out of sorted part
+            mini=min(mini,nums[low]);
             low=mid+1;
          }
-         else {
+         // right part sorted 
+         else{
+            // take the min out of sorted part 
+            mini=min(mini,nums[mid]);
             high=mid-1;
          }
-         mini=min(mini,nums[mid]);
         }
         return mini;
     }
