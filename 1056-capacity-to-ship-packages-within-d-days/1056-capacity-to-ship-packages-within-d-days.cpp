@@ -6,11 +6,8 @@ public:
         int sum=0;
         for(int i=0;i<weights.size();i++){
              sum+=weights[i];
-             if(weights[i] > capacity){
-                return false;
-             }
              if(sum >capacity){
-                cout<<"i"<<i<<endl;
+                // cout<<"i"<<i<<endl;
                 count_days++;
                 i--;
                 sum=0;
@@ -19,7 +16,7 @@ public:
         if(sum >0){
             count_days+=1;
         }
-        cout<<count_days<<endl;
+        // cout<<count_days<<endl;
         if(count_days>days){
             return false;
         }
@@ -30,17 +27,19 @@ public:
     int shipWithinDays(vector<int>& weights, int days) {
         int n=weights.size();
            int sum=0;
+           int maxi=INT_MIN;
         for(int i=0;i<n;i++){
             sum+=weights[i];
+            maxi=max(maxi,weights[i]);
         }
-        int low=weights[0];
+        int low=maxi; // since otherwise we are unable to ship all the containers 
         int high=sum; 
         int ans=sum;
         while(low<=high){
             // 
             int mid=(low)+(high-low)/2;
             // find out how much container we can carry on each day 
-                cout<<"mid"<<mid<<endl;
+                // cout<<"mid"<<mid<<endl;
             if( findingPossibleorNot(weights,days,mid)){
                 ans=mid;
                 high=mid-1; // try with lower capacity 
