@@ -9,27 +9,18 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution{
+class Solution {
 public:
-void preorder(vector<TreeNode *>&pre, TreeNode *root){
-    if(root==nullptr){
-        return;
-    }
-    preorder(pre,root->left);
-    pre.push_back(root);
-    preorder(pre,root->right);
-}
-    bool isValidBST(TreeNode* root) {
-        
-    //   writing the preorder
-     vector<TreeNode *> temp;
-     preorder(temp,root);
-     for(int i=1;i<temp.size();i++){
-        if(temp[i-1]->val >=temp[i] ->val){
+     bool isValid(TreeNode* root,long long int leftrange,long long int rightrange){
+        if(root==nullptr){
+            return true;
+        }
+        if(root->val <=leftrange || root->val >=rightrange){
             return false;
         }
+         return isValid(root->left,leftrange,root->val) && isValid(root->right,root->val,rightrange);
      }
-     return true;
-
+    bool isValidBST(TreeNode* root) {
+        return isValid(root,LLONG_MIN,LLONG_MAX);
     }
 };
