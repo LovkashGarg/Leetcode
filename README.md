@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
+| [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/lovkashGarg555/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/lovkashGarg555/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
