@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2358-number-of-ways-to-split-array](https://github.com/lovkashGarg555/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2358-number-of-ways-to-split-array](https://github.com/lovkashGarg555/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
