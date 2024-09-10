@@ -12,13 +12,13 @@ public:
                 int b=(i>>(n-j))%2;
                 graybits += ('0' +(b^lastbit));
                 lastbit=b;
-
             }
             int number=0;
      // converting to decimal from binary
-     int powe=1;
+     int power=1;
             for(int j=n-1;j>=0;j--){
-               number =number*2 + (graybits[j]-'0');
+               number =number + (graybits[j]-'0')* power;
+               power=power*2;
             }
             ans.push_back(number);
         }
