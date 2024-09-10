@@ -1,27 +1,22 @@
 class Solution {
 public:
     vector<int> grayCode(int n) {
-        vector<int>ans;
-        for(int i=0;i<(pow(2,n));i++){
-            // convering the first number that is 0
-            // since there are n bits we can do by
-            string graybits;
-            int lastbit=0;
-            for(int j=1;j<=n;j++){
-                // getting the first bit and second last bit 
-                int b=(i>>(n-j))%2;
-                graybits += ('0' +(b^lastbit));
-                lastbit=b;
-            }
-            int number=0;
-     // converting to decimal from binary
-     int power=1;
-            for(int j=n-1;j>=0;j--){
-               number =number + (graybits[j]-'0')* power;
-               power=power*2;
-            }
-            ans.push_back(number);
-        }
+       vector<int> ans;
+       ans.push_back(0);
+       if(n==0){
+        return ans;
+       }
+       ans.push_back(1);
+       int curr=1;
+
+// doing for n -1 times 
+       for(int i=2;i<=n;i++){
+   curr=curr*2;
+   for(int j=ans.size()-1;j>=0;j--){
+    ans.push_back(curr + ans[j]);
+   }
+       }
+        
        return ans;
     }
 };
