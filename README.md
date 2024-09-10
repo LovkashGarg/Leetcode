@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lovkashGarg555/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/lovkashGarg555/Leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Binary Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0476-number-complement](https://github.com/lovkashGarg555/Leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/lovkashGarg555/Leetcode/tree/master/0071-simplify-path) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
