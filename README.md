@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/lovkashGarg555/Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
+| [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Binary Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lovkashGarg555/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/lovkashGarg555/Leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
