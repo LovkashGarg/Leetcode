@@ -1,28 +1,24 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int lowrow=0;
-        int highrow=matrix.size()-1;
+      int row=0;
+      int col= matrix[0].size()-1;
+int n=matrix.size();
+int m=matrix[0].size();
 
-        for(int midrow=0;midrow<matrix.size();midrow++){
 
-            int lowcol=0;
-            int highcol=matrix[0].size()-1;
-            if(matrix[midrow][lowcol]<=target && target <= matrix[midrow][highcol]){
-                while(lowcol<=highcol){
-                    int midcol=(lowcol+ highcol)/2;
-                    if(matrix[midrow][midcol]==target){
-                        return true;
-                    }
-                    else if(matrix[midrow][midcol] <target){
-                        lowcol=midcol+1;
-                    }
-                    else{
-                         highcol=midcol-1;
-                    }
-                } 
+      while(row >=0 && row < n && col >=0 && col <m ){
+        // cout<< row<< " "<<col<<endl;
+            if(matrix[row][col]==target){
+                return true;
             }
-        }
-        return false;
+            else if(matrix[row][col] <target){
+                 row=row+1;
+            }
+            else{
+                col =col-1;
+            }
+      }
+      return false;
     }
 };
