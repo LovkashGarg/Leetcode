@@ -7,7 +7,7 @@ int n=matrix.size();
 int m=matrix[0].size();
 
 
-      while(row >=0 && row < n && col >=0 && col <m ){
+      while( row < n && col >=0 ){
         // cout<< row<< " "<<col<<endl;
             if(matrix[row][col]==target){
                 return true;
