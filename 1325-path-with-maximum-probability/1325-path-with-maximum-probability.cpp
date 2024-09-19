@@ -8,13 +8,13 @@ public:
             adj[edges[j][0]].push_back({succProb[j],edges[j][1]});
             adj[edges[j][1]].push_back({succProb[j],edges[j][0]});
         }
-        priority_queue<pair<double,int>>pq;// where first is the probablility to the path
+        queue<pair<double,int>>pq;// where first is the probablility to the path
         // and second is the node name 
         pq.push({1,start_node});
         while(!pq.empty()){
             // I am trying to extract the node with max prob
-            double prob=pq.top().first;
-            int node=pq.top().second;
+            double prob=pq.front().first;
+            int node=pq.front().second;
           cout<<node <<" "<<prob<<endl;
             pq.pop();
             
