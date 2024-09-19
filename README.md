@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/lovkashGarg555/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2358-number-of-ways-to-split-array](https://github.com/lovkashGarg555/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -227,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
