@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/lovkashGarg555/Leetcode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
