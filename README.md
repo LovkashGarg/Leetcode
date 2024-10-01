@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0338-counting-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lovkashGarg555/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lovkashGarg555/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/lovkashGarg555/Leetcode/tree/master/0476-number-complement) |
 ## Simulation
