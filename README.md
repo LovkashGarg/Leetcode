@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/lovkashGarg555/Leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/lovkashGarg555/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0125-valid-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
