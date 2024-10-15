@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/lovkashGarg555/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/lovkashGarg555/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lovkashGarg555/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0031-next-permutation) |
