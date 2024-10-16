@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Database
 |  |
