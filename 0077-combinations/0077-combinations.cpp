@@ -1,22 +1,21 @@
 class Solution {
 public:
-    void solve(int n, int i,vector<int>& ans, vector<vector<int>>&finalans,int k){
+    void solve(int n, int i,vector<int> ans, vector<vector<int>>&finalans,int k){
        
         if(ans.size()==k){
             finalans.push_back(ans);
             return;
         }
-        if(i==n+1){
-            return ;
-        }
+      
+         
          
          // include
-         ans.push_back(i);
-         solve(n, i+1,ans,finalans,k);
-         ans.pop_back();
-
-// exclude
-         solve(n,i+1,ans,finalans,k);
+         for(int j=i;j<n+1;j++){
+         ans.push_back(j);
+         solve(n, j+1,ans,finalans,k);
+         // backtrack
+         ans.pop_back(); // this statement ensure backtrack
+         } 
 
     }
     vector<vector<int>> combine(int n, int k) {
