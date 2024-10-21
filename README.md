@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
