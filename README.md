@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lovkashGarg555/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Graph
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovkashGarg555/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
