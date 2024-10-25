@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lovkashGarg555/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0338-counting-bits) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Shortest Path
