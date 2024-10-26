@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/lovkashGarg555/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lovkashGarg555/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2358-number-of-ways-to-split-array](https://github.com/lovkashGarg555/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
