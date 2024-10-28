@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/lovkashGarg555/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/lovkashGarg555/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/lovkashGarg555/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/lovkashGarg555/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lovkashGarg555/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/lovkashGarg555/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -413,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/lovkashGarg555/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/lovkashGarg555/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
