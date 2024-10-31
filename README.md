@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
