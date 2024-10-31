@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
+| [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/lovkashGarg555/Leetcode/tree/master/0547-number-of-provinces) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
