@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0437-path-sum-iii) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0437-path-sum-iii) |
