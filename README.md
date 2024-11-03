@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lovkashGarg555/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/lovkashGarg555/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lovkashGarg555/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/lovkashGarg555/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0926-find-and-replace-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/lovkashGarg555/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Linked List
