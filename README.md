@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/lovkashGarg555/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
