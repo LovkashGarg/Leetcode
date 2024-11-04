@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lovkashGarg555/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/lovkashGarg555/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lovkashGarg555/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
+| [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/lovkashGarg555/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
@@ -546,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
