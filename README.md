@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lovkashGarg555/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/lovkashGarg555/Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0090-subsets-ii) |
