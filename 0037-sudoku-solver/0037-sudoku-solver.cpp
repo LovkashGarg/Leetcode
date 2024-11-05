@@ -29,33 +29,27 @@ public:
     }
     return true;
    }
+bool solvesudoku(vector<vector<char>> &board, int i, int j)
+{
+    if(i==9) return true;
+    if(j==9) return solvesudoku(board, i+1, 0);
+    if(board[i][j] != '.') return solvesudoku(board, i, j+1);
 
-    bool solveSudokuHelper(vector<vector<char>>& board) {
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
-                if (board[i][j] == '.') {
-                    for (char k = '1'; k <= '9'; k++) {
-                        if (issafe(k, i, j, board)) {
-                            board[i][j] = k; // Place the digit
-                            
-                            // Recursively solve the next cells
-                            if (solveSudokuHelper(board)) {
-                                return true; // Stop if a solution is found
-                            }
-                            
-                            board[i][j] = '.'; // Backtrack
-                        }
-                    }
-                    
-                    return false; // No valid number found for this cell
-                }
-            }
+    for(char c='1'; c<='9'; c++)
+    {
+        if(issafe( c,i, j ,board))
+        {
+            board[i][j] = c;
+            if(solvesudoku(board, i, j+1)) return true;
+            board[i][j] = '.';
         }
-        return true; // Solved
     }
+        
+    return false;
+}
 
     void solveSudoku(vector<vector<char>>& board) {
         
-      solveSudokuHelper(board);
+      solvesudoku(board,0,0);
     }
 };
