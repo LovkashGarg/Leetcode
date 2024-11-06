@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/lovkashGarg555/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Database
@@ -560,4 +562,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
