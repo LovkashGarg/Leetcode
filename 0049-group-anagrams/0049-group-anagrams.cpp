@@ -3,7 +3,9 @@ public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         
         // Here I can make a 2d array which contains freq of all the 26 elements 
-        unordered_map<string,vector<string>>m;
+
+        // time complexicity is 0(n*log(n)) 
+        map<string,vector<string>>m;
          for(auto i:strs){
             string word=i;
             sort(word.begin(),word.end());
