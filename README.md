@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lovkashGarg555/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/lovkashGarg555/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/lovkashGarg555/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/lovkashGarg555/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lovkashGarg555/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/lovkashGarg555/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/lovkashGarg555/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/lovkashGarg555/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/lovkashGarg555/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0125-valid-palindrome) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lovkashGarg555/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/lovkashGarg555/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lovkashGarg555/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
