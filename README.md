@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
+| [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
