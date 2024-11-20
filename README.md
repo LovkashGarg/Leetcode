@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lovkashGarg555/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2580-circular-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lovkashGarg555/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/3451-string-compression-iii) |
 ## Sorting
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lovkashGarg555/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lovkashGarg555/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/lovkashGarg555/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
