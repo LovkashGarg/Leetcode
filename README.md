@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/lovkashGarg555/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lovkashGarg555/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovkashGarg555/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lovkashGarg555/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lovkashGarg555/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovkashGarg555/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
