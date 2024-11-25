@@ -10,7 +10,7 @@ public:
             x=x*-1;
         }
         long long int number=0;
-        cout<<INT_MAX<<endl;
+        // cout<<INT_MAX<<endl;
         while(x!=0){
             int d=x%10;
             cout<<number<<endl;
