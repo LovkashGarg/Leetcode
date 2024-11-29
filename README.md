@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1035-cousins-in-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1035-cousins-in-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1035-cousins-in-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1035-cousins-in-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1254-deepest-leaves-sum) |
