@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lovkashGarg555/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/lovkashGarg555/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovkashGarg555/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovkashGarg555/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
