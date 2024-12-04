@@ -1,81 +1,38 @@
 class TrieNode {
-      public:
-      char data;
-      TrieNode *children[26];
-      bool isTerminal;
-
-      TrieNode (char c){
-        data=c;
-        for(int i=0;i<26;i++){
-            children[i]=NULL;
-        }
-        isTerminal=false;
-      }
-    
+public:
+    TrieNode *child[26];
+    bool isWord;
+    TrieNode() {
+        isWord = false;
+        for (auto &a : child) a = nullptr;
+    }
 };
 class Trie {
+    TrieNode* root;
 public:
-TrieNode *root;
     Trie() {
-        root=new TrieNode('\0');
+        root = new TrieNode();
     }
-    void insertUtil(TrieNode *root,string word ){
-        if(word.length()==0){
-            // make this node the last node 
-            root->isTerminal=true;
-            return;
+    void insert(string s) {
+        TrieNode *p = root;
+        for (auto &a : s) {
+            int i = a - 'a';
+            if (!p->child[i]) p->child[i] = new TrieNode();
+            p = p->child[i];
         }
-     int index=word[0]-'a';
-     TrieNode *child;
-     if(root->children[index]!=nullptr){
-        child=root->children[index];
-     }
-     else{
-        child=new TrieNode(word[0]);
-        root->children[index]=child;
-     }
-     insertUtil(child,word.substr(1));
-
+        p->isWord = true;
     }
-    void insert(string word) {
-        insertUtil(root,word);
-    }
-    bool searchUtil(TrieNode *root,string word){
-        if(word.length()==0){
-            return root->isTerminal;
+    bool search(string key, bool prefix=false) {
+        TrieNode *p = root;
+        for (auto &a : key) {
+            int i = a - 'a';
+            if (!p->child[i]) return false;
+            p = p->child[i];
         }
-
-        int index=word[0]-'a';
-        TrieNode *child=root->children[index];
-        if(child!=nullptr){
-            return searchUtil(child,word.substr(1));
-        }
-        return false;
-    }
-    bool search(string word) {
-        return searchUtil(root,word);
-    }
-    bool startsWithUtil(TrieNode *root,string prefix){
-        if(prefix.length()==0){
-            return true;
-        }
-        int index=prefix[0]-'a';
-        if(root->children[index]!=nullptr){
-            return startsWithUtil(root->children[index],prefix.substr(1));
-        }
-        else{
-            return false;
-        }
+        if (prefix==false) return p->isWord;
+        return true;
     }
     bool startsWith(string prefix) {
-        return startsWithUtil(root,prefix);
+        return search(prefix, true);
     }
 };
-
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie* obj = new Trie();
- * obj->insert(word);
- * bool param_2 = obj->search(word);
- * bool param_3 = obj->startsWith(prefix);
- */
