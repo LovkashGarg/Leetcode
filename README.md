@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/lovkashGarg555/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/lovkashGarg555/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/lovkashGarg555/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/lovkashGarg555/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/lovkashGarg555/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0338-counting-bits) |
+| [0403-frog-jump](https://github.com/lovkashGarg555/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/0647-palindromic-substrings) |
