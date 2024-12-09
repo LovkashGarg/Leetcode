@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/lovkashGarg555/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/lovkashGarg555/Leetcode/tree/master/0403-frog-jump) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
