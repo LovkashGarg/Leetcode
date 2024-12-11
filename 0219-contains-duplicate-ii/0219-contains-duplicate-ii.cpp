@@ -2,19 +2,24 @@ class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
         
-        map<int,int>m;
+        multiset<int>m;
         int n=nums.size();
         // time complexicity O(n*logn)
         for(int i=0;i<n;i++){
-          if(m.find(nums[i])!=m.end()){
+            // means I have to erase a element one by one 
+            if(i>k){
+             m.erase(nums[i-k-1]);
+            }
 
-             if(i-m[nums[i]]<=k){
+            auto it=m.count(nums[i]); // I need to check how many present 
+            if(it==1){
                 return true;
-             }
-          }
+            }
+            m.insert(nums[i]);
 
-          m[nums[i]]=i;
         }
+       
+
         return false;
     }
 };
