@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/lovkashGarg555/Leetcode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/lovkashGarg555/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
