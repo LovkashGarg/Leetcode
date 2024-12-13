@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/lovkashGarg555/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lovkashGarg555/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/lovkashGarg555/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lovkashGarg555/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/lovkashGarg555/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1488-sort-integers-by-the-power-value](https://github.com/lovkashGarg555/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2164-two-best-non-overlapping-events](https://github.com/lovkashGarg555/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/lovkashGarg555/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Rolling Hash
 |  |
 | ------- |
