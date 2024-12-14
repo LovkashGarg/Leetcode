@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/lovkashGarg555/Leetcode/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/lovkashGarg555/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0940-fruit-into-baskets](https://github.com/lovkashGarg555/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1025-minimum-cost-for-tickets](https://github.com/lovkashGarg555/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0940-fruit-into-baskets](https://github.com/lovkashGarg555/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/lovkashGarg555/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
