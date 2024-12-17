@@ -4,7 +4,6 @@ public:
         
        vector<int> v(26,0);
        priority_queue<pair<char,int>>pq;
-       priority_queue<pair<char,int>>pq2;
        int n=s.size();
        for(int i=0;i<s.size();i++){
         v[s[i]-'a']++;
@@ -22,16 +21,13 @@ public:
         auto temp=pq.top();
         char d=temp.first;
         int f=temp.second;
-        cout<<d<<f<<endl;
         pq.pop();
        
         // remove only the repeatcount 
         int charremoved=min(repeatLimit,f);
-       string l=string(charremoved,d);
-       cout<<l<<endl;
-        
-
-        ans+=l;
+       for(int i=0;i<charremoved;i++){
+         ans+=d;
+       }
          
         if(charremoved<f){
             char c;
