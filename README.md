@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lovkashGarg555/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/lovkashGarg555/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/lovkashGarg555/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/lovkashGarg555/Leetcode/tree/master/0051-n-queens) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0070-climbing-stairs) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lovkashGarg555/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lovkashGarg555/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/lovkashGarg555/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
