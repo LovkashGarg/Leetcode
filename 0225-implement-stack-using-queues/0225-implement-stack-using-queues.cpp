@@ -1,28 +1,44 @@
 class MyStack {
 public:
-    deque<int>dq;
-
+    queue<int>q;
 
     MyStack() {
          
     }
     
     void push(int x) {
-        dq.push_front(x);
+        q.push(x); // this would push it from back 
     }
     
     int pop() {
-        int val=dq.front();
-        dq.pop_front();
+     // when I have to pop I need to pop the last element 
+        if(q.size()==1){
+            int val=q.front();
+            q.pop();
+            return val;
+        }
+
+        int val=q.back();
+        queue<int>temp;
+
+        while(true){
+          temp.push(q.front());
+          q.pop();
+          if(q.size()==1){
+            break;
+          }
+        }
+        
+        q=temp;
         return val;
     }
     
     int top() {
-        return dq.front();
+        return q.back();
     }
     
     bool empty() {
-        if(dq.size()==0){
+        if(q.size()==0){
             return true;
         }
         return false;
