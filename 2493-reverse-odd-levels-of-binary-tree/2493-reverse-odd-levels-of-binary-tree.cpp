@@ -30,12 +30,16 @@ public:
                 q.pop();
                 if (temp->left) {
                     q.push(temp->left);
+                    if(lev%2==0){
                     level.push_back(temp->left->val);
+                    }
                 }
 
                 if (temp->right) {
                     q.push(temp->right);
+                    if(lev%2==0){
                     level.push_back(temp->right->val);
+                    }
                 }
             }
 
@@ -55,6 +59,7 @@ public:
                     }
                 }
             }
+            level.clear();
             lev++;
         }
         return root;
