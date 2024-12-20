@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/lovkashGarg555/Leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/lovkashGarg555/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/lovkashGarg555/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/lovkashGarg555/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/lovkashGarg555/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lovkashGarg555/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/lovkashGarg555/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
