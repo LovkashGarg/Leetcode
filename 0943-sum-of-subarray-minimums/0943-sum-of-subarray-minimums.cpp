@@ -49,15 +49,7 @@ int mod=1e9+7;
         nse=nextsmallerele(arr);
         vector<int>pse(n);
         pse=previousmaller_or_equal(arr);
-
-        for(auto i:nse){
-            cout<<i<<" ";
-        }
-        cout<<endl;
-        for(auto j:pse){
-            cout<<j<<" ";
-        }
-        cout<<endl;
+        
        long int totalsum=0;
         for(int i=0;i<n;i++){
         int left=i-pse[i]; // this would tell how many contributions it would have on left 
