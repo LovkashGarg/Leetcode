@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1013-fibonacci-number) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2531-create-components-with-same-value](https://github.com/lovkashGarg555/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lovkashGarg555/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
