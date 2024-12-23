@@ -1,51 +1,47 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n=heights.size();
-        vector<int>nse(n);
-        stack<int>s1;
-        for(int i=n-1;i>=0;i--){
-           while(!s1.empty() && heights[s1.top()] >=heights[i]){
-            s1.pop();
-           }
+        int n = heights.size();
+        stack<int> s;
+        int maxarea = 0;
+        vector<int> pse(n);
 
-           if(s1.empty()){
-            nse[i]=n;
-           }
-           else{
-            nse[i]=s1.top();
-           }
-           s1.push(i);
+        // time complexicity is O()
+        for (int i = 0; i < n; i++) {
+            while (!s.empty() && heights[s.top()] >= heights[i]) {
+                // this means here i is the next smaller element for s.top()
+                // since it took out  the element nse[s.top()]=i we know formula
+                // for width is nse -pse -1
+                maxarea =
+                    max(maxarea, heights[s.top()] * (i - pse[s.top()] - 1));
+                s.pop();
+            }
+
+            if (s.empty()) {
+                pse[i] = -1;
+            } else {
+                pse[i] = s.top();
+            }
+            s.push(i);
         }
-       
-          vector<int>pse(n);
-          stack<int>s2;
-          for(int i=0;i<n;i++){
-           while(!s2.empty() && heights[s2.top()] >=heights[i]){
-            s2.pop();
-           }
 
-           if(s2.empty()){
-            pse[i]=-1;
-           }
-           else{
-            pse[i]=s2.top();
-           }
-           s2.push(i);
+        // now the element left in the array are the one which do not have a
+        // previous smaller element and no next smaller element
+
+        while (!s.empty()) {
+
+            auto ele = s.top();
+            s.pop();
+            int nse = n; // next smaller element not present since no element
+                         // left after that
+            int pse;
+            if (s.empty()) {
+                pse = -1;
+            } else {
+                pse = s.top();
+            }
+            maxarea = max(maxarea, heights[ele] * (nse - pse - 1));
         }
-       int maxarea=0;
-        for(int i=0;i<n;i++){
-           // now i tell for where i can go on right 
-           int left=pse[i]+1;
-           int right=nse[i]-1;
-
-
-           int mylen=right-left+1;
-
-            maxarea=max(maxarea,heights[i]*mylen);
-          
-        }
-         return maxarea;
-       
+        return maxarea;
     }
 };
