@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/lovkashGarg555/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lovkashGarg555/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/lovkashGarg555/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lovkashGarg555/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lovkashGarg555/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/lovkashGarg555/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovkashGarg555/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovkashGarg555/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/lovkashGarg555/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lovkashGarg555/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lovkashGarg555/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/lovkashGarg555/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lovkashGarg555/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lovkashGarg555/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Memoization
