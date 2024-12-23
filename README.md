@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lovkashGarg555/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/lovkashGarg555/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/lovkashGarg555/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/lovkashGarg555/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/lovkashGarg555/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/lovkashGarg555/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Linked List
