@@ -10,6 +10,7 @@ public:
         }
         
         if(dp[i][sum] !=-1 ){
+            // cout<<" hello"<<endl;
             return dp[i][sum];
         }
 
