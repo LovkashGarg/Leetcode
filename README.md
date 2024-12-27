@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1063-best-sightseeing-pair](https://github.com/lovkashGarg555/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lovkashGarg555/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/lovkashGarg555/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/lovkashGarg555/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/lovkashGarg555/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lovkashGarg555/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1488-sort-integers-by-the-power-value](https://github.com/lovkashGarg555/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lovkashGarg555/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
