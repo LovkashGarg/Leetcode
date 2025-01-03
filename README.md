@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/lovkashGarg555/Leetcode/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0695-max-area-of-island) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/lovkashGarg555/Leetcode/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/lovkashGarg555/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
