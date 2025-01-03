@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1777-determine-if-two-strings-are-close](https://github.com/lovkashGarg555/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lovkashGarg555/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1777-determine-if-two-strings-are-close](https://github.com/lovkashGarg555/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/lovkashGarg555/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1777-determine-if-two-strings-are-close](https://github.com/lovkashGarg555/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2164-two-best-non-overlapping-events](https://github.com/lovkashGarg555/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/lovkashGarg555/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
