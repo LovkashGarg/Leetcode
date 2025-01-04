@@ -1,26 +1,42 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        
+        // I can use a monotonic queue 
+        // brute force 
+        int n=nums.size();
+          vector<int>ans;
+         deque<int>dq;
+         for(int i=0;i<n;i++){
 
-        multiset<int> s;
-        int n = nums.size();
-        for (int i = 0; i < k - 1; i++) {
-            s.insert(nums[i]);
-        }
+          // first I need to check if there is some element which should be retarded since 
+          // the window size is being crossed
+          // dq.front() // means the last element 
 
-        vector<int> ans;
-        // time complexicity is 0(k*logk)
-        for (int i = k - 1; i < n; i++) {
-            s.insert(nums[i]);
-            ans.push_back(*s.rbegin());
-           
-            auto it = s.find(nums[i - k + 1]); // it returns the first occurence
-                                               // of nums[i-k+1]
-            if (it != s.end()) {
-                s.erase(it);
-            }
-        }
+// eg for window size k=3 we are i=3 and dq.front()= 0  means 0 should be retarded 
+          if(!dq.empty()  && (i-dq.front() >=k) )  {
+            dq.pop_front(); // remove the last element 
+          }
 
-        return ans;
+
+         // maintain a stack of monotonic decreasing nature 
+         while(!dq.empty() && nums[dq.back()] <= nums[i]){
+            dq.pop_back(); // I need to maintain a order 
+         }
+
+
+          dq.push_back(i);
+
+          // now how is answer we got 
+          // last element is the answer 
+          if(i>=k-1){
+            ans.push_back(nums[dq.front()]);
+          }
+          
+         }
+         return ans;
+
+        
+
     }
 };
