@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/lovkashGarg555/Leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/lovkashGarg555/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/lovkashGarg555/Leetcode/tree/master/0605-can-place-flowers) |
