@@ -981,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/lovkashGarg555/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/lovkashGarg555/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/lovkashGarg555/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/lovkashGarg555/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/lovkashGarg555/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
