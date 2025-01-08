@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/lovkashGarg555/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/lovkashGarg555/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/lovkashGarg555/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/lovkashGarg555/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lovkashGarg555/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/lovkashGarg555/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lovkashGarg555/Leetcode/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/lovkashGarg555/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/lovkashGarg555/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
