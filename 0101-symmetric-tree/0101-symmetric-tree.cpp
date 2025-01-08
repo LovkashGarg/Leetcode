@@ -11,50 +11,24 @@
  */
 class Solution {
 public:
-    bool bfs(TreeNode *root){
-        if(root==nullptr){
-            return true;
-        }
-        queue<TreeNode *>q;
-        q.push(root);
-        bool flag=true;
-        while(!q.empty()){
-            int n=q.size();
-            vector<int>level;
+ bool isSymmetric(TreeNode* root) {
+    return root==nullptr || isSymmetricHelp(root->left, root->right);
+}
 
-            for(int i=0;i<n;i++){
-    
-                auto temp=q.front();
-                q.pop();
-
-                if(temp->left){
-                    q.push(temp->left);
-                    level.push_back(temp->left->val);
-                }
-                else{
-                    level.push_back(INT_MIN);
-                }
-
-                if(temp->right){
-                    q.push(temp->right);
-                    level.push_back(temp->right->val);
-                }
-                else{
-                    level.push_back(INT_MIN);
-                }
-
-            }
-           
-            for(int i=0;i<ceil(level.size()/2.0);i++){
-                    cout<<level[i]<<" "<<level[level.size()-i-1]<<endl;
-                   if(level[i]!=level[level.size()-i-1]){
-                     return false;
-                   }
-            }
-        }
+ bool isSymmetricHelp(TreeNode *left, TreeNode *right){
+    if(left==nullptr && right==nullptr)
         return true;
+    
+    if(left == nullptr && right!=nullptr){
+        return false;
     }
-    bool isSymmetric(TreeNode* root) {
-        return bfs(root);
+
+    if(left != nullptr && right==nullptr){
+        return false;
     }
+    
+    if(left->val!=right->val)
+        return false;
+    return isSymmetricHelp(left->left, right->right) && isSymmetricHelp(left->right, right->left);
+}
 };
