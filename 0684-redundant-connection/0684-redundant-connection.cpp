@@ -44,7 +44,7 @@ public:
         for(int i=0;i< n;i++){
             int u=edges[i][0];
             int v=edges[i][1];
-            cout<<i<<endl;
+            // cout<<i<<endl;
             if(ds.findPar(u) != ds.findPar(v)){
                 ds.unionBysize(u,v);
             }
