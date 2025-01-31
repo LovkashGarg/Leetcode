@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lovkashGarg555/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/lovkashGarg555/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3427-special-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/3427-special-array-ii) |
 ## Stack
 |  |
