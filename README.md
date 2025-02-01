@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/lovkashGarg555/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/lovkashGarg555/Leetcode/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/lovkashGarg555/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1035-cousins-in-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/lovkashGarg555/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/lovkashGarg555/Leetcode/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/lovkashGarg555/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1035-cousins-in-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/lovkashGarg555/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/lovkashGarg555/Leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/lovkashGarg555/Leetcode/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/lovkashGarg555/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/lovkashGarg555/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1275-validate-binary-tree-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/lovkashGarg555/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/lovkashGarg555/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-minimize-malware-spread](https://github.com/lovkashGarg555/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1025-minimum-cost-for-tickets](https://github.com/lovkashGarg555/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/lovkashGarg555/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0960-minimize-malware-spread](https://github.com/lovkashGarg555/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -1003,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/lovkashGarg555/Leetcode/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/lovkashGarg555/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lovkashGarg555/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/lovkashGarg555/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lovkashGarg555/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
