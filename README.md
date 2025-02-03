@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/lovkashGarg555/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/lovkashGarg555/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
 | [0881-loud-and-rich](https://github.com/lovkashGarg555/Leetcode/tree/master/0881-loud-and-rich) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/lovkashGarg555/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lovkashGarg555/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/lovkashGarg555/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -619,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/lovkashGarg555/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/lovkashGarg555/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -1015,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/lovkashGarg555/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/lovkashGarg555/Leetcode/tree/master/0922-possible-bipartition) |
