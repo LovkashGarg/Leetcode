@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lovkashGarg555/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/lovkashGarg555/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lovkashGarg555/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lovkashGarg555/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lovkashGarg555/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/lovkashGarg555/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/lovkashGarg555/Leetcode/tree/master/0476-number-complement) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lovkashGarg555/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/lovkashGarg555/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovkashGarg555/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/lovkashGarg555/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lovkashGarg555/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/lovkashGarg555/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/lovkashGarg555/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lovkashGarg555/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
