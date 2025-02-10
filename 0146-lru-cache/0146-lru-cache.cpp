@@ -1,66 +1,94 @@
+class DLL{
+    public:
+    int key,val;
+    DLL *next=nullptr;
+    DLL * prev=nullptr;
+    DLL(int key,int val){
+        this->key=key;
+        this->val=val;
+    }
+};
 class LRUCache {
 public:
-     // here first is priority and second is key 
-    set<pair<int,int>> s;
-    // here first is key then is its priority and also value 
-    unordered_map<int,pair<int,int> >m;
-    int priority=-1;
-    int len=0;
-    // Constructor for initializing the cache capacity with the given value.
-    LRUCache(int cap) {
-        // code here
-        this->len=cap;
+int size;
+unordered_map<int,DLL *>m;
+ DLL *head=new DLL(-1,-1);
+        DLL *tail=new DLL(-1,-1);
+    LRUCache(int capacity) {
+        size=capacity;
+        head->next=tail;
+        tail->prev=head;
     }
-
-    // Function to return value corresponding to the key.
-    int get(int key) {
-        // your code here
-        if(m.find(key)== m.end()){
-            return -1;
-        }
-        else{
-            // agar hai to uske priority change kardo 
-            auto temp= m[key];
-            int val=temp.second;
-            int getprior=m[key].first;
-            s.erase({getprior,key}); //  I erase it 
-            priority++;
-            s.insert({priority,key});
-            m[key]={priority,val};
-            
-            return val;
-        }
-        
-        
-    }
-
-    // Function for storing key-value pair.
-    void put(int key, int value) {
-        
-        // your code here
-        // important if size == capacity and we go to update we donot need to erase the least recently used 
-        if(m.find(key)!=m.end()){
-           int oldprior= m[key].first;
-           s.erase({oldprior,key});
-        }
-        else if((this->s.size())>=len){
-            // I need to remove with lowest priority 
-            auto remo=*s.begin();
-            int firstkey=remo.second;
-            s.erase(s.begin());
-            m.erase(firstkey);
-        }
-        
-        // 
-         priority++;
-        s.insert({priority,key});
-        m[key]={priority,value};
-       
-        
+    void insert_after_head(DLL *node){
+        // now I can insert it 
+        DLL *temp=head->next;
+        head->next=node;
+        node->prev=head;
+        temp->prev=node;
+        node->next=temp;
     }
     
-}
-;
+    int get(int key) {
+         
+         if(m.find(key)==m.end()){
+            return -1;
+         }
+         else{
+            // i have to delete this node 
+            DLL *node=m[key];
+            delete_the_node(m[key]);
+            insert_after_head(node);
+            return node->val;
+         }
+
+    }
+    
+    void delete_the_node(DLL *node){
+
+       DLL * forw=node->next;
+       DLL *previous=node->prev;
+       previous->next=forw;
+       forw->prev=previous;
+    //    node->next=nullptr;
+    //    node->prev=nullptr;
+
+    }
+    void insert_beforetail(DLL *node){
+        
+        DLL * temp=tail->prev;
+        tail->prev=node;
+        node->next=tail;
+        node->prev=temp;
+        temp->next=node;
+
+    }
+
+    void put(int key, int value) {
+        
+        // to check if already present 
+        if(m.find(key)!=m.end()){
+            // delete this node 
+            DLL *node = m[key];
+            delete_the_node(node);
+            node->val=value;
+            insert_after_head(node);
+            return;
+        }
+        else if(m.size() >=size){
+           // here I need to  delete the node before tail 
+           DLL *node=tail->prev;
+           m.erase(node->key);
+           delete_the_node(node);
+           delete node;
+        }
+            // not present create a new node 
+            DLL *temp=new DLL(key,value);
+            m[key]=temp;
+            // I need to insert before the tail
+            insert_after_head(temp);
+        
+    }
+};
 
 /**
  * Your LRUCache object will be instantiated and called as such:
