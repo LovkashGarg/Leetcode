@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lovkashGarg555/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/lovkashGarg555/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/lovkashGarg555/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/lovkashGarg555/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0202-happy-number) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/lovkashGarg555/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/lovkashGarg555/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/lovkashGarg555/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lovkashGarg555/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -1166,4 +1169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/lovkashGarg555/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lovkashGarg555/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
