@@ -14,9 +14,9 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
 
-        map<int, TreeNode*> m;
+        unordered_map<int, TreeNode*> m;
         int n = descriptions.size();
-        map<TreeNode *,int>nodes;
+        unordered_map<TreeNode *,int>nodes;
 
         for (int i = 0; i < n; i++) {
 
@@ -52,11 +52,13 @@ public:
             nodes[m[parent]]=max(nodes[m[parent]],0);
         }
 
+
         for(auto i:nodes){
             if(i.second ==0){
                 return i.first;
             }
         }
+
         return nullptr;
     }
 };
