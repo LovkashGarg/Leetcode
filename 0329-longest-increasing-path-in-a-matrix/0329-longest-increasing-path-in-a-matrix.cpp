@@ -5,7 +5,7 @@ vector<int>dircol={0,1,0,-1};
 
 int maxi=0;
     void solve(int i,int j, int m,int n, vector<vector<int>> &dp,vector<vector<int>>& matrix){
-         
+       
         int curr=1;
         for(int k=0;k<4;k++){
             int newrow=i + dirrow[k];
@@ -21,7 +21,7 @@ int maxi=0;
                 }
             }
         }
-        
+
         dp[i][j]=max(curr,dp[i][j]);
         maxi= max(maxi,dp[i][j]);
         
@@ -36,16 +36,10 @@ int n=matrix[0].size();
         for(int j=0;j<n;j++){
              if(dp[i][j]==-1){ 
                 solve(i,j,m,n, dp,matrix);
-              }    
+             }    
         }
       }
 
-      for(auto i:dp){
-        for(auto j:i){
-            cout<<j<<" ";
-        }
-      }
-      cout<<endl;
       return maxi;
     }
 };
