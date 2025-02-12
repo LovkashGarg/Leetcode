@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/lovkashGarg555/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2487-optimal-partition-of-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lovkashGarg555/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/lovkashGarg555/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2716-prime-subtraction-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lovkashGarg555/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
