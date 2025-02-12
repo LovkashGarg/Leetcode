@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/lovkashGarg555/Leetcode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/lovkashGarg555/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
