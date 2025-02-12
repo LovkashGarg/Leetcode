@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/lovkashGarg555/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/lovkashGarg555/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/lovkashGarg555/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/lovkashGarg555/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/lovkashGarg555/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -800,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lovkashGarg555/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
