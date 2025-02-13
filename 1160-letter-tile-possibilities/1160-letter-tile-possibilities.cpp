@@ -32,7 +32,7 @@ public:
         set<string> s; // To store unique subsequences
         string output;
         int n = tiles.size();
-        
+        sort(tiles.begin(),tiles.end());
         solve(0, n, tiles, output, s);
 
         for (auto it : s) {
