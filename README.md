@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lovkashGarg555/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lovkashGarg555/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/lovkashGarg555/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lovkashGarg555/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/lovkashGarg555/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -1233,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/lovkashGarg555/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/lovkashGarg555/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
@@ -1240,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/lovkashGarg555/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
