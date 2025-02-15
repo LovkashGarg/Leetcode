@@ -11,46 +11,34 @@
 class Solution {
 public:
     ListNode* removeNodes(ListNode* head) {
-        
-        // find next greater element 
-        vector<int>nums;
+        stack<ListNode *>s;
         ListNode *temp=head;
         while(temp){
-            nums.push_back(temp->val);
+            s.push(temp);
             temp=temp->next;
         }
-
-        stack<int>s;
-        int n=nums.size();
-        vector<int> nge(n);
-        for(int i= n-1;i>=0;i--){
-            // jab tak ye element bda hai pop out 
-           while(!s.empty() && nums[s.top()] <= nums[i]){
-            s.pop();
-           }
-           if(s.empty()){
-            nge[i]=n;
-           }
-           else{
-            nge[i]=s.top();
-           }
-           s.push(i);
-        }
-
-      head=nullptr;
-      temp=new ListNode(-1);
-        for(int i=0;i<n;i++){
-         if(nge[i]==n){
-            ListNode *node= new ListNode(nums[i]);
-           if(head==nullptr){
-            head=node;
-           }
-
-           temp->next=node;
-           temp=node;
+          int maxi=INT_MIN;
+        while(!s.empty()){
+          if(maxi> s.top()->val){
+            s.top()->val=-1;
           }
+          maxi=max(maxi,s.top()->val);
+          s.pop();
         }
-
+       ListNode *temp1=new ListNode(-1);
+       ListNode *temp2=head;
+       head=nullptr;
+       while(temp2){
+        if(temp2->val!=-1){
+            if(head==nullptr){
+                head=temp2;
+            }
+            temp1->next=temp2;
+            temp1=temp1->next;
+        }
+        temp2=temp2->next;
+       }
+       
         return head;
     }
 };
