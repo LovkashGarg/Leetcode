@@ -3,7 +3,7 @@ public:
     bool parseBoolExpr(string exp) {
         stack<char>s;
         int n=exp.size();
-        
+
         for(int i=0;i<n;i++){
           if(exp[i]=='(' || exp[i]=='t' || exp[i]=='f'){
             s.push(exp[i]);
@@ -34,6 +34,9 @@ public:
                 int ans=1;
                 for(auto i:val){
                  ans=ans & i;
+                 if(ans==0){
+                    break;
+                 }
                 }
 
                 if(ans==0){
@@ -47,6 +50,9 @@ public:
                 int ans=0;
                 for(auto i:val){
                  ans=ans | i;
+                 if(ans==1){
+                    break;
+                 }
                 }
 
                 if(ans==0){
