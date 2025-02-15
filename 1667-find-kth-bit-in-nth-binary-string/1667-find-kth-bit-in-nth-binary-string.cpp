@@ -1,36 +1,28 @@
 class Solution {
 public:
-   map<int,string>dp={{1,"0"},{2,"011"},{3,"0111001"}};
-    string reverse_invert(string a){
-       
-       // first invert
-       for(int i=0;i<a.size();i++){
-
-        if(a[i]=='1'){
-            a[i]='0';
-        }
-        else{
-            a[i]='1';
-        }
-       }
-
-       reverse(a.begin(),a.end());
-       return a;
-    }
-
-   string solve(int n){
-    
-    if(dp.count(n)){
-        return dp[n];
-    }
-    
-    // generate for each and every one 
-    return dp[n]=  solve(n-1) + '1' + reverse_invert(solve(n-1));
-
-   }
+string d="011";
     char findKthBit(int n, int k) {
         
-        string s=solve(n);
-        return s[k-1];
+        if(n==1){
+            return '0';
+        }
+
+        int len = pow(2, n) - 1; // for n=3 length is 7 
+        
+
+        if(k-1==len/2){
+            return '1'; 
+        }
+        else if(k-1<len/2){
+           // means on left side 
+           return findKthBit(n-1,k);
+        }
+        else{
+            char val= findKthBit(n-1,len-k+1);
+            if(val=='0'){
+                return '1';
+            }
+            return '0';
+        }
     }
 };
