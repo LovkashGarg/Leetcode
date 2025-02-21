@@ -11,29 +11,26 @@
  */
 class FindElements {
 public:
-   map<int,int>m;
-    void solve(TreeNode *root,int index){
-        if(root==nullptr){
-            return ;
-        }
-        root->val=index;
-        m[index]=1;
-        solve(root->left,2*index+1);
-        solve(root->right,2*index+2);
+int index=0;
+map<int,int>m;
+   void solve(int index,TreeNode *root){
+    if(root==nullptr){
+        return ;
     }
 
+    root->val= index;
+    m[index]=1;
+    solve(2*index+1, root->left);
+    solve(2*index+2, root->right);
+
+   }
     FindElements(TreeNode* root) {
-        
-
-        // here recovering 
-        
-        solve(root,0);
-
+        solve(index,root);
     }
     
     bool find(int target) {
-        // do a dfs traversal since 
-         return m[target];
+        
+return m[target];
     }
 };
 
