@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lovkashGarg555/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/lovkashGarg555/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lovkashGarg555/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lovkashGarg555/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lovkashGarg555/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/lovkashGarg555/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/lovkashGarg555/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/lovkashGarg555/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/lovkashGarg555/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lovkashGarg555/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/lovkashGarg555/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0090-subsets-ii) |
