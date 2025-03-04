@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lovkashGarg555/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/lovkashGarg555/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
