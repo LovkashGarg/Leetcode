@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/lovkashGarg555/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2610-closest-prime-numbers-in-range](https://github.com/lovkashGarg555/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/lovkashGarg555/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lovkashGarg555/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/lovkashGarg555/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2610-closest-prime-numbers-in-range](https://github.com/lovkashGarg555/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
