@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/lovkashGarg555/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lovkashGarg555/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovkashGarg555/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/lovkashGarg555/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lovkashGarg555/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
