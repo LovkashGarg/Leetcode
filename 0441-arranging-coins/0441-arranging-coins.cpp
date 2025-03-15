@@ -2,18 +2,20 @@ class Solution {
 public:
     int arrangeCoins(int n) {
         
-      long long total =0;
-      cout<<INT_MAX<<endl;
-      for(int i=1;i<=n;i++){
-        total+=i;
-        if(total >n){
-            return i-1;
-        }
-        else if(total==n){
-            return i;
-        }
-      }
-      return -1;
+        int low=0;
+        long long high=n;
+        while(low<=high){
+            long long mid= (low)+ (high-low)/2;
 
+            if(n>= (mid)*(mid+1)/2){
+                // matlab todi kam fill kari hai mene
+                low=mid+1;
+          
+            }
+            else{
+                   high=mid-1;
+            }
+        }
+        return low-1;
     }
 };
