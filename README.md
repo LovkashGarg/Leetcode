@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lovkashGarg555/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/lovkashGarg555/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/lovkashGarg555/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/lovkashGarg555/Leetcode/tree/master/0400-nth-digit) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/lovkashGarg555/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/lovkashGarg555/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Minimum Spanning Tree
 |  |
