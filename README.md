@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lovkashGarg555/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/lovkashGarg555/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/lovkashGarg555/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lovkashGarg555/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/lovkashGarg555/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2716-prime-subtraction-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/lovkashGarg555/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Matrix
 |  |
 | ------- |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/lovkashGarg555/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1088,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/lovkashGarg555/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/lovkashGarg555/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3427-special-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
