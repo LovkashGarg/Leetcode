@@ -11,27 +11,21 @@ int n= nums.size();
             power[i] = (power[i - 1] * 2) % mod;
         }
 
-       for(int i=0;i<n;i++){
-         int low=i;
+       
+         int low=0;
          int high=n-1;
-         long long indexes=-1;
          while(low<=high){
-            int mid= (low + high)/2;
-            if(nums[i]+ nums[mid] <=target){
-                low = mid+1;
-                indexes=mid-i;
+           
+            if(nums[low]+ nums[high] <=target){
+                ans= (ans %mod + power[high-low])%mod;
+                low++;
             }
             else{
-                high= mid-1;
+                high--;
             }
          }
 
-         // now find the total number of subsequence that can be formed between them 
-        if (indexes >= 0) {
-             ans = (ans + power[indexes]) % mod;
-        }
-
-       } 
+     
 
        return ans;
     }
