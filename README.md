@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/lovkashGarg555/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lovkashGarg555/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lovkashGarg555/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/lovkashGarg555/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/lovkashGarg555/Leetcode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lovkashGarg555/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lovkashGarg555/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lovkashGarg555/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovkashGarg555/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lovkashGarg555/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lovkashGarg555/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/lovkashGarg555/Leetcode/tree/master/1753-path-with-minimum-effort) |
