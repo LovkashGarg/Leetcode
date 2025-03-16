@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/lovkashGarg555/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lovkashGarg555/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/lovkashGarg555/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1390,4 +1392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/lovkashGarg555/Leetcode/tree/master/0912-random-pick-with-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
