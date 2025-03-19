@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/lovkashGarg555/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/lovkashGarg555/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/lovkashGarg555/Leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/lovkashGarg555/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/lovkashGarg555/Leetcode/tree/master/0322-coin-change) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/lovkashGarg555/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lovkashGarg555/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/lovkashGarg555/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/lovkashGarg555/Leetcode/tree/master/0419-battleships-in-a-board) |
