@@ -1,20 +1,20 @@
 class Solution {
 public:
-    int dpclimb(int n, vector<int>& dp){
-
-      if(n<=2){
-        dp[n]= n;
-        return dp[n];
-        } 
-        if(dp[n]!=-1){
-            return dp[n];
-        }
-       return  dp[n]=dpclimb(n-1,dp)+ dpclimb(n-2,dp);
-   
-    }
     int climbStairs(int n) {
-       
-vector<int> dp(n+1,-1);
-        return dpclimb(n,dp);
+
+      int prev2=1;
+      if(n==1){
+        return prev2;
+      }
+      int prev1=2;
+int ans;
+      for(int i=3;i<=n;i++){
+        ans= prev1 + prev2;
+        prev2=prev1;
+        prev1=ans;
+      }
+      return prev1;
+
+     
     }
 };
