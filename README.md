@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lovkashGarg555/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/lovkashGarg555/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/lovkashGarg555/Leetcode/tree/master/3429-special-array-i) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lovkashGarg555/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lovkashGarg555/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/lovkashGarg555/Leetcode/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/lovkashGarg555/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/lovkashGarg555/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lovkashGarg555/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
