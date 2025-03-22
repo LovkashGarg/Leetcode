@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/lovkashGarg555/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/lovkashGarg555/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/lovkashGarg555/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/lovkashGarg555/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lovkashGarg555/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lovkashGarg555/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/lovkashGarg555/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/lovkashGarg555/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lovkashGarg555/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/lovkashGarg555/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/lovkashGarg555/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/lovkashGarg555/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1302,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lovkashGarg555/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/lovkashGarg555/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/lovkashGarg555/Leetcode/tree/master/0684-redundant-connection) |
