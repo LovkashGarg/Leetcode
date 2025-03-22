@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/lovkashGarg555/Leetcode/tree/master/0283-move-zeroes) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/lovkashGarg555/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/lovkashGarg555/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/lovkashGarg555/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/lovkashGarg555/Leetcode/tree/master/0342-power-of-four) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lovkashGarg555/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/lovkashGarg555/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lovkashGarg555/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lovkashGarg555/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/lovkashGarg555/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/lovkashGarg555/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -964,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lovkashGarg555/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/lovkashGarg555/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/lovkashGarg555/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/lovkashGarg555/Leetcode/tree/master/0371-sum-of-two-integers) |
