@@ -26,13 +26,16 @@ public:
 
          int n=s.size();
 
-        for(int i=1;i<n;i++){
             string temp;
+        for(int i=1;i<n;i++){
+
             solve(i-1,i,s,ans,temp,n);
             temp+=s[i];
             solve(i-1,i+1,s,ans,temp,n);
+            temp.clear();
 
         }
+
         return ans;
     }
 };
