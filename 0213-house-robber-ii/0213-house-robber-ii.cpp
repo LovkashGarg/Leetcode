@@ -1,41 +1,27 @@
 class Solution {
 public:
-int solve(int index,int last, vector<int> & nums,vector<int>&dp){
-    if(index==last){
+    int solve(vector<int>&nums,int start,int n, vector<int>&dp){
 
-      return nums[index];
-    }
+        if(start >=n){
+            return 0;
+        }
+        if(dp[start]!=-1){
+            return dp[start];
+        }
 
-    if(index<last){
-return 0;
+        int include =  nums[start] + solve(nums, start+2, n, dp);
+        int exclude = solve(nums, start+1, n, dp);
+        return dp[start]= max(include , exclude);
     }
-
-    if(dp[index]!=-1){
-        return dp[index];
-    }
-
-    int include=nums[index];
-    if(index-2>=last){
-        include+=solve(index-2,last,nums,dp);
-    }
-    int exclude=0 + solve(index-1,last,nums,dp);
-    return dp[index]=max(include,exclude);
-}
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        int index=n-1;
+ 
+        int n= nums.size();
         if(n==1){
             return nums[0];
         }
-        else if(n==2){
-            return  max(nums[0],nums[1]);
-        }
-
         vector<int>dp1(n,-1);
-        int first=solve(index,1,nums,dp1);
-          vector<int>dp2(n,-1);
-        int second=solve(index-1,0,nums,dp2);
-        // cout<<second<<endl;
-        return max(first,second);
+        vector<int>dp2(n,-1);
+        return max(solve(nums,0,n-1,dp1) ,solve(nums,1,n,dp2)  )  ;
+
     }
 };
