@@ -1,13 +1,14 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-        int count=0;
-        for(int i=1;i<=32;i++){
-          int d=(n>>(32-i))%2;
-          if(d){
+
+       int count=0;
+       for(int i=0;i<=31;i++){
+        // cout<< ()<<endl;
+           if( (n & (1<<i) )!= 0){
             count++;
-          }
-        }
-        return count;
+           }
+       } 
+       return count;
     }
 };
