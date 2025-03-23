@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lovkashGarg555/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/lovkashGarg555/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
@@ -1195,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lovkashGarg555/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lovkashGarg555/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/lovkashGarg555/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/lovkashGarg555/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lovkashGarg555/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0930-all-possible-full-binary-trees](https://github.com/lovkashGarg555/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1013-fibonacci-number) |
