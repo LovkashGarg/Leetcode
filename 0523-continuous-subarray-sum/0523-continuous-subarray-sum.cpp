@@ -16,14 +16,15 @@ public:
         //      maxlen=i+1;
         //    }
 
+// matlab bich vale sare milke equal to 0 hogye 
            if(m.find(prefixsum) !=m.end()){
               maxlen=max(maxlen,i-m[prefixsum]);  
            }
+
            else{
            m[prefixsum]=i;
            }
 
-          
         }
 
           if(maxlen>=2){
