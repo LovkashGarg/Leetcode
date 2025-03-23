@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/lovkashGarg555/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0045-jump-game-ii) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/lovkashGarg555/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/lovkashGarg555/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/lovkashGarg555/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lovkashGarg555/Leetcode/tree/master/0022-generate-parentheses) |
@@ -1312,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/lovkashGarg555/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/lovkashGarg555/Leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/lovkashGarg555/Leetcode/tree/master/0273-integer-to-english-words) |
