@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/lovkashGarg555/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/lovkashGarg555/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/lovkashGarg555/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/lovkashGarg555/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lovkashGarg555/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/lovkashGarg555/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/lovkashGarg555/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/lovkashGarg555/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/lovkashGarg555/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/lovkashGarg555/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/lovkashGarg555/Leetcode/tree/master/0131-palindrome-partitioning) |
