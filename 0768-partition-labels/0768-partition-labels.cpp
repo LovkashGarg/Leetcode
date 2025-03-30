@@ -12,7 +12,11 @@ public:
          }
 
          last[s[i]-'a']=i;
+
        }
+
+
+
 
        // now I have to merge this intervals 
        vector<pair<int,int>>  intervals;
@@ -26,6 +30,7 @@ public:
        sort(intervals.begin(),intervals.end());
 
        vector<pair<int,int>> merged;
+
        int start= intervals[0].first;
        int end= intervals[0].second;
 
@@ -40,11 +45,14 @@ public:
          }
 
        }
+
        merged.push_back({start,end});
+       
        vector<int>ans;
        for(auto i:merged){
         ans.push_back( i.second-i.first +1);
        }
+
        return ans;
     }
 };
