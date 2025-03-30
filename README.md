@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lovkashGarg555/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0724-find-pivot-index) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/lovkashGarg555/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lovkashGarg555/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-largest-plus-sign](https://github.com/lovkashGarg555/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0930-all-possible-full-binary-trees](https://github.com/lovkashGarg555/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/lovkashGarg555/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/lovkashGarg555/Leetcode/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lovkashGarg555/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/lovkashGarg555/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
