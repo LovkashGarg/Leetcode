@@ -1,34 +1,24 @@
 class Solution {
 public:
-    int solve(int left , int right , vector<int>& cuts ,vector<vector<int>>&dp ){
+   int solve(int start, int end, vector<int>& cuts, int left, int right, vector<vector<int>>& dp) {
+    if (left > right) return 0;
 
-        if(left > right){
-            return 0;
-        }
+    if (dp[left][right] != -1) return dp[left][right];
 
-        if(dp[left][right]!=-1){
-            return dp[left][right];
-        }
+    int cost = INT_MAX;
 
-        int mini= INT_MAX;
-        for(int i=left ;i<= right ;i++){
-         int cost = (cuts[right+1] - cuts[left-1] ) + solve(left , i-1,cuts,dp) + solve(i+1, right,cuts,dp);
-         mini=min(mini, cost);
-        }
-
-return dp[left][right]=mini;
-
+    for (int i = left; i <= right; ++i) {
+        int curr_cost = end - start + solve(start, cuts[i], cuts, left, i - 1, dp) + solve(cuts[i], end, cuts, i + 1, right, dp);
+        cost = min(cost, curr_cost);
     }
 
-    int minCost(int n, vector<int>& cuts) {
-        
-        int m= cuts.size();
-        cuts.push_back(n);
-        cuts.insert(cuts.begin(),0);
-        sort(cuts.begin(), cuts.end());
-        vector<vector<int>>dp(m+1, vector<int>(m+1,-1));
+    return dp[left][right] = cost;
+}
 
-        return solve(1,m,cuts,dp);
-
-    }
+int minCost(int n, vector<int>& cuts) {
+    sort(cuts.begin(), cuts.end());
+    int m = cuts.size();
+    vector<vector<int>> dp(m, vector<int>(m, -1));
+    return solve(0, n, cuts, 0, m - 1, dp);
+}
 };
