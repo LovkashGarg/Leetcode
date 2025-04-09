@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/lovkashGarg555/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/lovkashGarg555/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1121-partition-array-for-maximum-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/lovkashGarg555/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lovkashGarg555/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1249-snapshot-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1249-snapshot-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/lovkashGarg555/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/lovkashGarg555/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1121-partition-array-for-maximum-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/lovkashGarg555/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/lovkashGarg555/Leetcode/tree/master/1236-n-th-tribonacci-number) |
