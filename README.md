@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lovkashGarg555/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/lovkashGarg555/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -1115,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/lovkashGarg555/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lovkashGarg555/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1184,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/lovkashGarg555/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lovkashGarg555/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1265,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/lovkashGarg555/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
@@ -1320,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1338,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/lovkashGarg555/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/lovkashGarg555/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
