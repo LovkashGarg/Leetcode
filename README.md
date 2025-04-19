@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/lovkashGarg555/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/lovkashGarg555/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1833-find-the-highest-altitude](https://github.com/lovkashGarg555/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lovkashGarg555/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/lovkashGarg555/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1917-maximum-average-pass-ratio](https://github.com/lovkashGarg555/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lovkashGarg555/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2487-optimal-partition-of-string](https://github.com/lovkashGarg555/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/lovkashGarg555/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/lovkashGarg555/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lovkashGarg555/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lovkashGarg555/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -1365,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/lovkashGarg555/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lovkashGarg555/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/lovkashGarg555/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/lovkashGarg555/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
