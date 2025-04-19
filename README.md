@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/lovkashGarg555/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/lovkashGarg555/Leetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/lovkashGarg555/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lovkashGarg555/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lovkashGarg555/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/lovkashGarg555/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lovkashGarg555/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/lovkashGarg555/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lovkashGarg555/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0732-my-calendar-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lovkashGarg555/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/lovkashGarg555/Leetcode/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/lovkashGarg555/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -1514,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/lovkashGarg555/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/lovkashGarg555/Leetcode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/lovkashGarg555/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0729-my-calendar-i](https://github.com/lovkashGarg555/Leetcode/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lovkashGarg555/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/lovkashGarg555/Leetcode/tree/master/0937-online-stock-span) |
