@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lovkashGarg555/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0769-largest-plus-sign](https://github.com/lovkashGarg555/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0794-swim-in-rising-water](https://github.com/lovkashGarg555/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/lovkashGarg555/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0854-making-a-large-island](https://github.com/lovkashGarg555/Leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lovkashGarg555/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/lovkashGarg555/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/lovkashGarg555/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lovkashGarg555/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lovkashGarg555/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/lovkashGarg555/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/lovkashGarg555/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/lovkashGarg555/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0797-rabbits-in-forest](https://github.com/lovkashGarg555/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/lovkashGarg555/Leetcode/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/lovkashGarg555/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/lovkashGarg555/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/lovkashGarg555/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/lovkashGarg555/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/lovkashGarg555/Leetcode/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/lovkashGarg555/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lovkashGarg555/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
