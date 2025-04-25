@@ -4,11 +4,11 @@ public:
 
         long long count=0;
         long long equals=0;
-        map<int,int>m;
+        unordered_map<int,int>m;
 
         m[0]=1;
 
-        for(auto i:nums){
+        for(auto &i:nums){
 
             // here we update equal when we got a element with the condition 
             if(i%modulo==k) equals++;
