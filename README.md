@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lovkashGarg555/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lovkashGarg555/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2531-create-components-with-same-value](https://github.com/lovkashGarg555/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2551-apply-operations-to-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lovkashGarg555/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lovkashGarg555/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lovkashGarg555/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/lovkashGarg555/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lovkashGarg555/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lovkashGarg555/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lovkashGarg555/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1558,11 +1560,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/lovkashGarg555/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/lovkashGarg555/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lovkashGarg555/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lovkashGarg555/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lovkashGarg555/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/lovkashGarg555/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Interactive
 |  |
