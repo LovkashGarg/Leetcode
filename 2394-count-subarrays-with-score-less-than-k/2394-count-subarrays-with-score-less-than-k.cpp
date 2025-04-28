@@ -1,7 +1,6 @@
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, long long k) {
-        
         int l=0;
         int r=0;
        long long int sum=0;
@@ -40,3 +39,4 @@ long long int count =0;
         return count;
     }
 };
+
