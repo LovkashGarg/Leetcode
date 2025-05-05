@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/lovkashGarg555/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-largest-plus-sign](https://github.com/lovkashGarg555/Leetcode/tree/master/0769-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lovkashGarg555/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/lovkashGarg555/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/lovkashGarg555/Leetcode/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/lovkashGarg555/Leetcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/lovkashGarg555/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
