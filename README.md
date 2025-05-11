@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/lovkashGarg555/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/lovkashGarg555/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/lovkashGarg555/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1308-smallest-string-with-swaps](https://github.com/lovkashGarg555/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/lovkashGarg555/Leetcode/tree/master/1319-unique-number-of-occurrences) |
