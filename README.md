@@ -1135,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/lovkashGarg555/Leetcode/tree/master/0584-find-customer-referee) |
 | [1135-customers-who-bought-all-products](https://github.com/lovkashGarg555/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/lovkashGarg555/Leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1278-product-price-at-a-given-date](https://github.com/lovkashGarg555/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/lovkashGarg555/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lovkashGarg555/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/lovkashGarg555/Leetcode/tree/master/2087-confirmation-rate) |
